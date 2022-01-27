@@ -2,6 +2,7 @@
 	"name": "marshallu/acf-menu-field",
 	"description": "Add a field for menus in ACF.",
 	"type": "wordpress-plugin",
+	"license": "MIT",
     "require-dev": {
         "paulthewalton/acf-pro-stubs": "5.8.9.1",
 		"squizlabs/php_codesniffer": "3.*",
