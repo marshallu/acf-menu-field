@@ -5,7 +5,7 @@
  * Description: A custom field type for ACF to select menus.
  * Version: 1.0.0
  * Author: Christopher McComas
- * Author URI: http://www.marshall.edu
+ * Author URI: http://www.cmccomas.com
  *
  * @package acf-menu-field
  */
